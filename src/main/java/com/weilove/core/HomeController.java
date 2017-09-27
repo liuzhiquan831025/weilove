@@ -24,6 +24,10 @@ import com.weilove.core.util.HttpsGetUtil;
  */
 @Controller
 public class HomeController {
+	
+	/**
+	 * git 测试
+	 * */
 	private String appID="wx764d5a3a5ed0fb1c";
 	private String appsecret="26c573bb6dd7991ee14ddaae3a561a26";
 	private String URL="https://weilove.applinzi.com/weixin/sign.do";
